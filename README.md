@@ -40,9 +40,18 @@ Utilizing the .apply() method for efficient data manipulation.
 Employing groupby to perform aggregate analysis and derive insights.
 Visualizing results through bar charts and line graphs using matplotlib.
 Labeling graphs to enhance readability and understanding.
-
 7. Conclusion
 
 Through the analysis conducted using Python, we were able to gain valuable insights into sales performance, regional trends, optimal advertising times, and product relationships. These insights can be utilized by decision-makers to enhance sales strategies, optimize advertising campaigns, and drive overall business growth.
 
 In conclusion, leveraging Python for sales analysis proved to be an effective approach in extracting actionable insights from the dataset, ultimately enabling informed decision-making processes.
+
+![](docs/images/total_sales_by_city.png)
+![](docs/images/monthly_sales_performance.png)
+![](docs/images/Quantity_Ordered_by_Product.png)
+![](docs/images/Maximise_time_distribution.png)
+![](docs/images/Quantity_Ordered_and_Price_by_Product.png)
+
+
+
+p
